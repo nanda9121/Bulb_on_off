@@ -1,0 +1,46 @@
+.new-container {
+    background-color: black;
+}
+
+.light-img {
+    width: 150px;
+}
+
+.cat-img {
+    width: 300px;
+}
+
+.switch-board {
+    background-color: #7b8794;
+    width: 294px;
+    height: 139px;
+    border-radius: 12px;
+    padding-left: 16px;
+    padding-right: 16px;
+    padding-top: 32px;
+    padding-bottom: 32px;
+    margin: 16px;
+}
+
+.heading {
+    font-size: 30px;
+    color: #ffffff;
+}
+
+.Off-switch {
+    width: 50px;
+    text-align: center;
+    font-size: 15px;
+    background-color: #e12d39;
+    color: #ffffff;
+    font-family: "Roboto";
+}
+
+.On-switch {
+    width: 50px;
+    text-align: center;
+    font-size: 15px;
+    color: #ffffff;
+    background-color: #cbd2d9;
+    font-family: "Roboto";
+}
